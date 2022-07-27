@@ -1,2 +1,2 @@
-# cyf-project1
-project 1 
+# cyf-Beauty salon project
+Beauty salon project 
